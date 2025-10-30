@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-expo-localization@^12.0.1:
-  version "12.0.1"
-  resolved "https://registry.yarnpkg.com/expo-localization/-/expo-localization-12.0.1.tgz#81799920abe4f8de790da01a0d4a1c9ca63854bf"
-  integrity sha512-nfTalbofqXrT8kgoFZDUxgIvs+YDmZx99IWLiKrd9jFacGn/B7KoO1f0hSAu89kmuo8DCxt53WHaqKqlytQQPg==
+expo-localization@~15.0.3:
+  version "15.0.3"
+  resolved "https://registry.yarnpkg.com/expo-localization/-/expo-localization-15.0.3.tgz#772c89b3ab9c925b7eca6911a11ca33980c2b674"
+  integrity sha512-IfcmlKuKRlowR9qIzL0e+nGHBeNoF7l2GQaOJstc7HZiPjNJ4J1R4D53ZNf483dt7JSkTRJBihdTadOtOEjRdg==
   dependencies:
     rtl-detect "^1.0.2"
 
